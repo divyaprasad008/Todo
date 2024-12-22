@@ -57,6 +57,9 @@
 - name
 - details
 - status (Pending | In progress | Completed)
+- start_date
+- end_date
+- priority
 - created_by
 - created_at 
 - updated_at
@@ -74,6 +77,9 @@
 - project_id
 - title
 - details
+- start_date
+- end_date
+- priority
 - created_by
 - status(Pending | In Progress | Done)
 - is_active
